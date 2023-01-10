@@ -8,8 +8,6 @@ I also created installer so u can download it and then run without python needed
 
 After installing just open the folder and run <strong>LoL_probability</strong> file.
 
-/
-/____________________________________________________________________________________
 
 # Showcase:
 
