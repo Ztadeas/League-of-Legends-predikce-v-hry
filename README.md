@@ -18,7 +18,11 @@ After installing just open the folder and run <strong>LoL_probability</strong> f
 ![kill_pr](https://user-images.githubusercontent.com/74866388/211654768-cdf0e249-382b-4266-ab26-50ddee29d7ef.png)
 
 
+# About:
 
+This app was created while I was <strong>intern</strong> at http://www.utia.cas.cz/cs.
+
+Me with this application and my 2 other colleagues each with different projects, which are using Bayesian Networks won 3rd place at final conference in project of https://www.avcr.cz/cs/ for highschoolers in field of lifeless nature which includes Formal science and Earth science. 
 
 
 
