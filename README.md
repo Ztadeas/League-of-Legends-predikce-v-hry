@@ -8,6 +8,9 @@ I also created installer so u can download it and then run without python needed
 
 After installing just open the folder and run <strong>LoL_probability</strong> file.
 
+![gauss_staz](https://user-images.githubusercontent.com/74866388/211776184-50c7a7fc-94b9-4123-aeb7-86e410d856c7.png)
+
+
 
 # Showcase:
 
