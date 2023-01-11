@@ -8,11 +8,19 @@ I also created installer so u can download it and then run without python needed
 
 After installing just open the folder and run <strong>LoL_probability</strong> file.
 
+# Gaussian distributions dependent on kill difference
+
 ![gauss_staz](https://user-images.githubusercontent.com/74866388/211776184-50c7a7fc-94b9-4123-aeb7-86e410d856c7.png)
 
+# Probability tables
 
 
-# Showcase:
+![table_1](https://user-images.githubusercontent.com/74866388/211778106-251dfdb6-573e-4192-ab5c-ea55f5dcbc7e.PNG)
+
+![table_2](https://user-images.githubusercontent.com/74866388/211778127-7a5c9e59-45c4-4699-9920-4eae919572ed.png)
+
+
+# Showcase of application:
 
 ![Screenshot 2022-11-14 175726](https://user-images.githubusercontent.com/74866388/211654479-44d2d0c3-3ebe-4c01-9516-c8cfac14b883.png)
 
